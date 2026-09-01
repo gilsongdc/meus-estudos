@@ -20,5 +20,6 @@ meus-estudos/
 ├── python/
 │   ├── 01-santander-python/
 │   └── 02-bradesco-python-basico/
+│   └── 02-bradesco-python-basico/
 │
 └── README.md
